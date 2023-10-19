@@ -1,0 +1,10 @@
+package task2;
+
+public class Nakigoe {
+	public static void main(String[] args) {
+		Dog dog = new Dog();
+		
+		dog.naku();
+		dog.sakebu("u-");
+	}
+}
